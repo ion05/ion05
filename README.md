@@ -2,8 +2,6 @@
 
 
 
-Here are some ideas to get you started:
-
 - 🌱 I’m currently learning MERN
 - 👯 I’m looking to collaborate on web development (backend), app development
 - 🤔 I’m looking for help with React
