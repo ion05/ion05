@@ -9,3 +9,4 @@
 - 📫 How to reach me: mailto:contact@aayanagarwal.co
 - 😄 Pronouns: He/Him
 
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/ion05/langs)](https://githubtrends.io)
